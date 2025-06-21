@@ -5,7 +5,7 @@
 </p>
 <p align="center">
   <a href="https://augusto.berwaldt.mit-license.org/"><img src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
-  
+    <a href="https://github.com/augustoberwaldt/go-request-client/actions/workflows/build.yml"><img src="https://github.com/augustoberwaldt/go-request-client/actions/workflows/build.yml/badge.svg"></a>
 </p>
 
 ## Go HTTP Request Client Library
