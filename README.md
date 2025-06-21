@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/bozd4g/go-http-client">
-    <img alt="go-http-client" src="https://req.cool/images/req.png" width="300">
+  <a href="https://github.com/go-request-client">
+    <img alt="go-request-client" src="https://req.cool/images/req.png" width="300">
   </a>
 </p>
 <p align="center">
@@ -32,7 +32,7 @@ A powerful and flexible HTTP client library for Go, inspired by Guzzle PHP. This
 ## Installation
 
 ```bash
-go get github.com/augustoberwaldt/go-request-client
+go get github.com/go-request-client
 ```
 
 ## Quick Start
@@ -47,7 +47,7 @@ import (
     "log"
     "time"
     
-    "github.com/http-client/httpclient"
+    "github.com/go-request-client"
 )
 
 func main() {
