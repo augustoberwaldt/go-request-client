@@ -33,7 +33,7 @@ A powerful and flexible HTTP client library for Go, inspired by Guzzle PHP. This
 ## Installation
 
 ```bash
-go get github.com/go-request-client
+go get github.com/augustoberwaldt/go-request-client
 ```
 
 ## Quick Start
@@ -48,7 +48,7 @@ import (
     "log"
     "time"
     
-    "github.com/go-request-client"
+    "github.com/augustoberwaldt/go-request-client"
 )
 
 func main() {
