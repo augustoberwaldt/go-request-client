@@ -5,7 +5,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/http-client/httpclient"
+	httpclient "github.com/http-client"
 )
 
 func main() {
@@ -221,12 +221,6 @@ func concurrentExample() {
 
 func middlewareExample() {
 	fmt.Println("8. Middleware Example:")
-
-	// Create a client with logging middleware
-	client := httpclient.NewClient(
-		httpclient.WithBaseURL("https://httpbin.org"),
-		httpclient.WithTimeout(5*time.Second),
-	)
 
 	// Note: In a real implementation, you would integrate middleware
 	// into the client's request pipeline
