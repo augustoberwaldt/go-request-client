@@ -1,12 +1,12 @@
 <p align="center">
-<a href="https://pkg.go.dev/github.com/augustoberwaldt/go-request-client@v0.1.0"><img src="https://pkg.go.dev/badge/github.com/augustoberwaldt/go-request-client@v0.1.0.svg" alt="Go Reference"></a>
   <a href="https://github.com/go-request-client">
     <img alt="go-request-client" src="https://req.cool/images/req.png" width="300">
   </a>
 </p>
 <p align="center">
+  <a href="https://pkg.go.dev/github.com/augustoberwaldt/go-request-client@v0.1.0"><img src="https://pkg.go.dev/badge/github.com/augustoberwaldt/go-request-client@v0.1.0.svg" alt="Go Reference"></a>
   <a href="https://augusto.berwaldt.mit-license.org/"><img src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
-    <a href="https://github.com/augustoberwaldt/go-request-client/actions/workflows/build.yml"><img src="https://github.com/augustoberwaldt/go-request-client/actions/workflows/build.yml/badge.svg"></a>
+  <a href="https://github.com/augustoberwaldt/go-request-client/actions/workflows/build.yml"><img src="https://github.com/augustoberwaldt/go-request-client/actions/workflows/build.yml/badge.svg"></a>
 </p>
 
 ## Go HTTP Request Client Library
