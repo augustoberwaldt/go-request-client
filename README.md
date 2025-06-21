@@ -7,7 +7,8 @@
   <a href="https://augusto.berwaldt.mit-license.org/"><img src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
   
 </p>
-# Go HTTP Request Client Library
+
+## Go HTTP Request Client Library
 
 A powerful and flexible HTTP client library for Go, inspired by Guzzle PHP. This library provides a simple interface for building HTTP requests, handling responses, and integrating with web services.
 
