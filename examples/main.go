@@ -5,11 +5,11 @@ import (
 	"log"
 	"time"
 
-	httpclient "github.com/http-client"
+	httpclient "github.com/go-request-client"
 )
 
 func main() {
-	fmt.Println("=== Go HTTP Client Library Examples ===\n")
+	fmt.Println("=== Go HTTP Client Library Examples ===")
 
 	// Example 1: Basic GET request
 	basicGetExample()
