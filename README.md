@@ -5,7 +5,7 @@
 </p>
 <p align="center">
   <a href="https://augusto.berwaldt.mit-license.org/"><img src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
-    <a href="https://github.com/augustoberwaldt/go-request-client/actions/workflows/build.yml"><img src="https://github.com/augustoberwaldt/go-request-client/actions/workflows/build.yml/badge.svg"></a>
+  
 </p>
 
 ## Go HTTP Request Client Library
@@ -371,25 +371,5 @@ See the `examples/` directory for comprehensive usage examples.
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Comparison with Guzzle PHP
-
-This Go library provides similar functionality to Guzzle PHP:
-
-| Feature  | Go HTTP Client |
-|---------|------------|----------------|
-| Simple interface | ✅ |
-| JSON support  | ✅ |
-| Form data  | ✅ |
-| Multipart uploads  | ✅ |
-| Authentication  | ✅ |
-| Query parameters  | ✅ |
-| Headers management | ✅ |
-| Async requests | ✅ |
-| Concurrent requests  | ✅ |
-| Middleware | ✅ |
-| Timeout control | ✅ |
-| Cookie support  | ✅ |
-| Response handling | ✅ |
 
 The Go library maintains the same ease of use while leveraging Go's strengths in concurrency and performance. 
