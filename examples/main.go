@@ -5,7 +5,7 @@ import (
 	"log"
 	"time"
 
-	httpclient "github.com/go-request-client"
+	httpclient "github.com/augustoberwaldt/go-request-client"
 )
 
 func main() {

@@ -1,4 +1,4 @@
-module github.com/go-request-client
+module github.com/augustoberwaldt/go-request-client
 
 go 1.21
 
