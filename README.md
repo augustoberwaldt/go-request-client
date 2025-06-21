@@ -1,4 +1,4 @@
-# Go HTTP Client Library
+# Go HTTP Request Client Library
 
 A powerful and flexible HTTP client library for Go, inspired by Guzzle PHP. This library provides a simple interface for building HTTP requests, handling responses, and integrating with web services.
 
